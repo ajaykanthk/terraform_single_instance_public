@@ -1,0 +1,4 @@
+.terraform
+cred.txt
+terraform.tfstate
+terraform.tfstate.backup

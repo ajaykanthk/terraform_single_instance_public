@@ -1,0 +1,6 @@
+aws_region         = "us-east-1"
+vpc_cidr           = "172.16.0.0/16"
+public_subnet_cidr = "172.16.1.0/24"
+imagename          = "ami-051f8a213df8bc089"
+instancetype       = "t2.micro"
+keyname            = "mykey"
